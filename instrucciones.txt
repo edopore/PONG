@@ -1,0 +1,20 @@
+Instrucciones de uso
+
+1. Descargar la carpeta “Juego_Pong”, si lo desea mueva la carpeta al lugar que usted desee en su equipo y sea de fácil acceso.
+
+2. Abrir el software MATLAB.
+
+3. Click en la opcion Open y en ella buscar el archivo "Pong.m".
+
+4. Cuando el código ya esté en la interfaz, y antes de ejecutarlo, para jugar debe escoger dos objetos en lo posible del mismo tamaño, de color rojo y colocarlos 
+en frente de la cámara para que el juego los reconozca. 
+
+5. Cuando ya esté listo para jugar, con los objetos al frente de la cámara, dar click en “Run” ubicado en la pestaña “EDITOR”.
+
+OPCIONAL. En caso de que salga el menseje en pantalla "...Pong.m is not found in the current folder or on the MATLAB path" seleccionar la opcion "Change Folder".
+
+Nota: Para el juego se podrían usar dos tapas rojas de gaseosa y una buena fuente de iluminacion para iluminar de mejor manera los objetos rojos.
+
+¡¡¡¡¡¡¡¡A divertirse :D!!!!!!!!
+       
+       
